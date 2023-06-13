@@ -1,0 +1,40 @@
+.box {
+  border: solid black;
+  height: 120px;
+  width: 120px;
+}
+
+.circle {
+  border: solid  orange;
+  border-radius: 50%;
+  height: 120px;
+  width: 120px;
+  text-align: center;
+  display: flex;
+  align-items: center;
+
+}
+.bio {
+  border: solid purple;
+  height: 32vh;
+  width: 100%;
+  padding: 1em;
+  text-align: center;
+  color:blueviolet;
+}
+
+.kevinHart {
+  display: flex;
+  border: solid green;
+}
+
+.kHart{
+  width: 50%;
+}
+
+.disappear {
+  display: block;
+}
+
+
+
